@@ -1,5 +1,5 @@
 """
-Topic 1 - CLI Output Formatter (hard)
+Task 3 - CLI Output Formatter (hard)
 Write a program that prints a dynamic boxed output like below:
 +---------------------+
 |  Python is awesome!  |
