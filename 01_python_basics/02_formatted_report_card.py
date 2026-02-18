@@ -1,5 +1,5 @@
 """
-Topic 2 - formatted report card (medium)
+Task 2 - formatted report card (medium)
 Print a formatted report card like below:
 ---------------------------
 Student name   : George
