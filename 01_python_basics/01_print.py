@@ -1,13 +1,15 @@
 """
-Topic 1 - CLI Output Formatter (hard)
-Write a program that prints a dynamic boxed output like below:
-+---------------------+
-|  Python is awesome!  |
-+---------------------+
+Task 1 - print function(easy)
+Write a program that prints:
+- Name
+- Today's date (hardcoded)
+- A motivational quote
 """
 
-text = input("Enter a sentence: ")
+name = "George"
+date = "2025-02-17"
+quote = "Believe you can and you're halfway there."
 
-print("+" + ("-" * len(text)) + "+")
-print("|" + text + "|")
-print("+" + ("-" * len(text)) + "+")
+print(name)
+print(date)
+print(quote)
