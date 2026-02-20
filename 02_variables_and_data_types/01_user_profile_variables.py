@@ -1,5 +1,5 @@
 """
-Task 1: User profile variables
+Task 1: User profile variables (easy)
 Create the following variables:
 - name (str)
 - age (int)
