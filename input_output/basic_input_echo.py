@@ -1,5 +1,5 @@
 """
-Task 4 - Basic input echo (easy)
+Task 1 - Basic input echo (easy)
 Take input: name, city and print: Hello <name> from <city>
 Updated task - make the first letter of name and city uppercase
 """
